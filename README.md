@@ -18,4 +18,8 @@ _week 1_
 **[Day 5](review_day5)**: Review day, Regex, Rosalind exercises, recap
 
 _week 2_  
-
+**[Day 6](functions_modules_day6)**: Functions, code structure, modules, classes    
+**[Day 7](jupyter_pandas_day7)**: Jupyter, intro to data science with Pandas, Numpy, Scipy    
+**[Day 8](biopython_day8)**: Biopython, reading documentation, error handling    
+**[Day 9](plotting_day9)**: Plotting day with Radovan, Matplotlib, Vega-Altair   
+**[Day 10](final_day10)**: Intro to git, biodiversity exercise, recap of everything covered so far   
