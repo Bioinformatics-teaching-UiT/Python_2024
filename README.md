@@ -1,6 +1,6 @@
 # UiT [Bio-3027 / Bio-8027](https://uit.no/education/courses/course?p_document_id=822634) 
 ## Introduction to Python in the Life Sciences Course 
-### [Schedule Spring 2023](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module=BIO-3027-1#week=1-25)
+### [Schedule Spring 2024]
 ---
 This repository contains all course material, including lectures, sample code, and exercises.
 
