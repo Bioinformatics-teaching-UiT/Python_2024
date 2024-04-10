@@ -7,12 +7,16 @@ Follow the instructions below
 """
 
 # create a set of colors: red, green, blue
-
+colors={"red","green","blue"}
 
 # add the color yellow to this set using the add method
 
 
+
 # update the set with the colors purple and pink with the update method
+
+colors.update({"purple","pink"})
+print(colors)
 
 
 # make a set out of this list
