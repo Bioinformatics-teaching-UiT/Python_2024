@@ -1,0 +1,12 @@
+The avg. rainfall in Jan was 81.2.
+The avg. rainfall in Feb was 63.2.
+The avg. rainfall in Mar was 70.3.
+The avg. rainfall in Apr was 55.7.
+The avg. rainfall in May was 53.0.
+The avg. rainfall in Jun was 36.4.
+The avg. rainfall in Jul was 17.5.
+The avg. rainfall in Aug was 27.5.
+The avg. rainfall in Sep was 60.9.
+The avg. rainfall in Oct was 117.7.
+The avg. rainfall in Nov was 111.0.
+The avg. rainfall in Dec was 97.9.
