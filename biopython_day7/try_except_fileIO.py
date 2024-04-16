@@ -12,16 +12,6 @@ File IO Exception handling using rainfall exercise:
 
 @author: yin
 """
-from average_rainfall import read_rainfall_to_dict
-
-inputfile = input('Please enter your filename: ')
-
-try:
-    rainfall_dict = read_rainfall_to_dict(inputfile)
-except Exception as err:
-    print(type(err))
-    print(err)
-
 # read_rainfall_to_dict(inputfile)
 # the correct inputfile is 'rainfall.txt'
 
