@@ -19,7 +19,7 @@ _week 1_
 
 _week 2_
 - **[Day 6](functions_modules_day6)**: Functions, code structure, modules, classes
-- **[Day 7](jupyter_pandas_day7)**: Jupyter, intro to data science with Pandas, Numpy, Scipy
-- **[Day 8](biopython_day8)**: Biopython, reading documentation, error handling
+- **[Day 7](jupyter_pandas_day8)**: Jupyter, intro to data science with Pandas, Numpy, Scipy
+- **[Day 8](biopython_day7)**: Biopython, reading documentation, error handling
 - **[Day 9](plotting_day9/README.md)**: Plotting day using [Vega-Altair](https://altair-viz.github.io/) and a bit of [Matplotlib](https://matplotlib.org/)
 - **[Day 10](final_day10)**: Intro to git, biodiversity exercise, recap of everything covered so far
