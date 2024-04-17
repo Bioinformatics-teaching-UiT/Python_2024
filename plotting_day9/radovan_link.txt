@@ -1,1 +1,0 @@
-Link to today's material: https://coderefinery.github.io/data-visualization-python/
