@@ -18,11 +18,10 @@ We will focus on these episodes:
 
 ## Exercises
 
-(I will make add links to those)
-
-- Pandas-1
-- Pandas-2
-- Customization-1
+- [Pandas-1: Columns and rows](https://coderefinery.github.io/data-visualization-python/pandas/#exercise-arranging-plots-in-columns-and-rows)
+- [Pandas-2: Read and plot a CSV file](https://coderefinery.github.io/data-visualization-python/pandas/#exercise-anscombe-s-quartet)
+- [Customization-1: Adapting a gallery example](https://coderefinery.github.io/data-visualization-python/customizing-plots/#exercise)
 
 Depending on interest:
-- Exercises in https://coderefinery.github.io/data-visualization-python/matplotlib/
+- [Matplotlib-1](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercise-first-plot-with-matplotlib)
+- [Matplotlib-2](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercises-styling-and-customization-with-matplotlib)
