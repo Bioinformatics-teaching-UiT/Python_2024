@@ -23,5 +23,5 @@ We will focus on these episodes:
 - [Customization-1: Adapting a gallery example](https://coderefinery.github.io/data-visualization-python/customizing-plots/#exercise)
 
 Depending on interest:
-- [Matplotlib-1](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercise-first-plot-with-matplotlib)
-- [Matplotlib-2](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercises-styling-and-customization-with-matplotlib)
+- [First plot with Matplotlib](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercise-first-plot-with-matplotlib)
+- [Styling and customization with Matplotlib](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercises-styling-and-customization-with-matplotlib)
