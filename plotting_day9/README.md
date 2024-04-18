@@ -25,3 +25,10 @@ We will focus on these episodes:
 Depending on interest:
 - [First plot with Matplotlib](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercise-first-plot-with-matplotlib)
 - [Styling and customization with Matplotlib](https://coderefinery.github.io/data-visualization-python/matplotlib/#exercises-styling-and-customization-with-matplotlib)
+
+
+## Resources that could be of interest
+
+- https://research-software.uit.no/
+- https://hpc.uit.no/
+- https://coderefinery.org/
