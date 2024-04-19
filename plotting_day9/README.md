@@ -32,3 +32,8 @@ Depending on interest:
 - https://research-software.uit.no/
 - https://hpc.uit.no/
 - https://coderefinery.org/
+
+
+## Some notes, questions, and answers collected in a notebook
+
+[![nbviewer badge](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.org/github/Bioinformatics-teaching-UiT/Python_2024/blob/main/plotting_day9/notes.ipynb)
