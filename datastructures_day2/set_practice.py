@@ -17,10 +17,10 @@ Follow the instructions below
 
 
 
-# make a set out of this list
+# make a list out of this set
 
 
 # remove the 6 from the set using the discard method
 
 
-# here are two sets, find their intersection, union, and difference
+# Make two sets, find their intersection, union, and difference
